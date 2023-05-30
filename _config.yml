@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar:  "./img/home_me.jpg"
+sidebar-about-description: "Stay hungry, stay foolish!"
+sidebar-avatar:  "https://avatars.githubusercontent.com/u/41506670?s=400&u=67888c4bf06de363f790af87da0f8f0c2b879fe6&v=4"
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "joschu", href: "http://joschu.net/index.html" },
   ]
