@@ -4,6 +4,7 @@ title:        "xxxx年度总结"
 author:       "小星星也变奏"
 header-style: text
 catalog:      true
+hidden: true
 tags:
   - annualReport
 ---
